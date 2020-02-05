@@ -1,0 +1,8 @@
+{
+    "name": "newlib",
+    "config": {
+        "param": {
+            "value": 1
+        }
+    }
+}
