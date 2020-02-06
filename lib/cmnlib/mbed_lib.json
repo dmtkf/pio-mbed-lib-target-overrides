@@ -1,0 +1,8 @@
+{
+    "name": "cmnlib",
+    "config": {
+        "param": {
+            "value": 100
+        }
+    }
+}

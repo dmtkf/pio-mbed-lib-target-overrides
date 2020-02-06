@@ -1,0 +1,8 @@
+{
+    "name": "somelib",
+    "config": {
+        "param": {
+            "value": 10
+        }
+    }
+}
